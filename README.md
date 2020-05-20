@@ -7,3 +7,4 @@
   d. The test result will be a text file.
 
 2. Tester must edit test data to run this project: "username" + "password" of amazon's account.
+3. Assume that we disabled 2 step verification from Amazon.
